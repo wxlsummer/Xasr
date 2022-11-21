@@ -2,7 +2,7 @@
 
 The code is run on Google Colab, it is highly recommended that you also use Google Colab.
 
-There are five ipynb files corresponding to the five explanation techniques.
+There are five ipynb files corresponding to the five explanation techniques（weighted version of SFL and Causal are not shown in the paper, which you can skip）.
 
 When you need to use code, please use Bertsentence and TF-IDF to generate the original information of Bert vector and TF-IDF for your audios.
 
